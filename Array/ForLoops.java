@@ -1,8 +1,6 @@
 public class ForLoops {
     
-    public static void main(String[] args) {
-        
-
+    public static void main(String[] args) { 
         int arr[] = {1, 3, 5, 7, 9};
         System.out.print("Contents of array are : " );
         for(int i=0; i<5; i++){
